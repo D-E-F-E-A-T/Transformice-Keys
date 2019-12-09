@@ -1,0 +1,4 @@
+version = 547
+login = 1123454542
+handshake = CbkZdH
+hash = 19 39 37 07 3a 17 23 03 09 39 64 49 41 61 6f 5f 62 4f 4b 6b
